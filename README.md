@@ -1,7 +1,10 @@
 Americancoin
 =========
 
-AmericanCoin AMC is based on Litecoin and is the most patriotic crypto-currency ever. It has a block reward of 100 coins and will have a total of 168 million coins. This makes it 2 times that of LiteCoin. It is a lite version of Bitcoin optimized for CPU mining using scrypt as a proof of work.
+AmericanCoin AMC is based on Litecoin and is the most patriotic crypto-currency ever.<br> 
+It has a block reward of 100 coins and will have a total of 168 million coins. <br>
+This makes it 2 times that of LiteCoin. <br>
+It is a lite version of Bitcoin optimized for CPU mining using scrypt as a proof of work.
  
 Website
 http://americancoin.org/
