@@ -26,6 +26,7 @@ Danny Asia took on management of AmericanCoin.<br>
 everyone can suggest anything about development.<br>
 You can see more information at http://americancoin.org <br>
 original source came from https://github.com/AMCcoin/AmericanCoin <br>
+if other problems mail to goldan8805@gmail.com 
 
 Future plan
 =========
