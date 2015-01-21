@@ -22,10 +22,10 @@ The rest is the same as bitcoin.
 Development process
 =========
 
-Danny Asia took on management of AmericanCoin.
-everyone can suggest anything about development.
-You can see more information at http://americancoin.org
-original source came from https://github.com/AMCcoin/AmericanCoin
+Danny Asia took on management of AmericanCoin.<br>
+everyone can suggest anything about development.<br>
+You can see more information at http://americancoin.org <br>
+original source came from https://github.com/AMCcoin/AmericanCoin <br>
 
 Future plan
 =========
