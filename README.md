@@ -26,22 +26,22 @@ a lite version of Bitcoin optimized for CPU mining using scrypt as a proof of wo
 <li>41.4% maximum change on difficulty retarget</li>
 </ul>
 
-Additional Nodes
+Additional Nodes(americancoin.conf)
 =========
-rpcuser=username
-rpcpassword=password
-rpcallowip=127.0.0.1
-rpcport=9057
-port=9056
-gen=0
-server=1
-addnode=americancoin.org
-addnode=205.197.252.28
-addnode=72.78.100.9:9056
-addnode=50.149.31.242:9056
-addnode=192.186.133.74:46026
-addnode=78.47.224.230:37187
-addnode=5.249.152.159:9056
+rpcuser=username<br>
+rpcpassword=password<br>
+rpcallowip=127.0.0.1<br>
+rpcport=9057<br>
+port=9056<br>
+gen=0<br>
+server=1<br>
+addnode=americancoin.org<br>
+addnode=205.197.252.28<br>
+addnode=72.78.100.9:9056<br>
+addnode=50.149.31.242:9056<br>
+addnode=192.186.133.74:46026<br>
+addnode=78.47.224.230:37187<br>
+addnode=5.249.152.159:9056<br>
 
 DOWNLOADS
 =========
