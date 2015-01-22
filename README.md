@@ -53,11 +53,8 @@ Windows Wallet
 http://americancoin.org/american_qt.zip
  
 Windows Daemon
-http://americancoin.org/americand.zip
+http://americancoin.org/american_demon.zip
  
-Linux
-http://americancoin.org/american_linux.zip
-
 Source Code
 https://github.com/dannyasia/americancoin
 
